@@ -39,7 +39,7 @@ class App extends React.Component {
                 {
                     id: 4,
                     title: "Лампа",
-                    img: "lampa.jpeg",
+                    img: "Lampa.jpeg",
                     desc: "Lorem ipsum dolor sit amet, consectetur",
                     category: "light",
                     price: "50.99"
